@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Student Project
+                    Student Project !!!
                 </div>
 
                 <div class="links">
